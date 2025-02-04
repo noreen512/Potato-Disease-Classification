@@ -1,6 +1,7 @@
 # Potato-Disease-Classification
 
-Dataset: https://www.kaggle.com/arjuntejaswi/plant-village 
+Dataset: https://www.kaggle.com/arjuntejaswi/plant-village
+
 Colab Code: https://colab.research.google.com/drive/1DiRPNPBiK6EGIZBf3GbryIccK4L85bpo?usp=sharing
 
 Project Description:
