@@ -1,6 +1,7 @@
 # Potato-Disease-Classification
 
 Dataset: https://www.kaggle.com/arjuntejaswi/plant-village 
+Colab Code: https://colab.research.google.com/drive/1DiRPNPBiK6EGIZBf3GbryIccK4L85bpo?usp=sharing
 
 Project Description:
 This project focuses on classifying potato leaf diseases using a deep learning model built with TensorFlow and Keras. The model is trained on the PlantVillage dataset, which contains images of healthy and diseased potato leaves. The goal is to develop an image classification system that can help farmers and agricultural experts detect potato diseases early.
